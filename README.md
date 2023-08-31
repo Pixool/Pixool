@@ -1,4 +1,4 @@
-﻿Pixoolzied Studio's Website
+﻿Pixoolized Studio's Website
 
 This Is The Code Files For The Pixoolized Studio's Website
 
